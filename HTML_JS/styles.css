@@ -1,0 +1,9 @@
+.ok-button{
+    width: 50px;
+    height: 25px;
+    border: 4px solid blue;
+}
+
+.ok-button:hover{
+    border: 4px solid green;
+}

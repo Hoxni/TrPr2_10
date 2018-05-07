@@ -1,0 +1,54 @@
+.menu-button:link, .menu-button:visited {
+    background-color: green;
+    text-decoration: none;
+    color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.menu-button:hover, .menu-button:active {
+    background-color: red;
+    text-decoration: none;
+    color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.text-center{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 30px;
+}
+
+.helper {
+    display:inline-block;
+    vertical-align:middle;
+    height:100%;
+}
+
+table{
+    height: 50%;
+    width: 100%;
+    padding-top: 10%;
+}
+
+.td-center{
+    width: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.main-menu{
+    width: 95%;
+    text-align: center;
+    font-size: 50px;
+}

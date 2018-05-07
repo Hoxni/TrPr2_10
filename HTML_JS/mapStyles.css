@@ -1,0 +1,26 @@
+.picture{
+    width: auto;
+    height: 670px;
+    margin-left: 350px;
+}
+
+.icon{
+    width: auto;
+    height: 300px;
+    margin-left: 30%;
+}
+
+.text-head{
+    margin-left: 37%;
+}
+
+.text-content{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.tower{
+    width: auto;
+    height: 300px;
+    margin-left: 40%;
+}
